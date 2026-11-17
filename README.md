@@ -13,3 +13,8 @@ Alla fine del corso questo diario diventa parte del README.
 | [16/11] | 5 | [Oggi a lezione abbiamo lavorato al documento CSS] | [Ho deciso una palette di colori e le dimensioni del mio sito web] |
 | | | | |
 | | | | |
+
+# Diario 
+## Lezione 5
+Oggi abbiamo creato il depository, inserito i file e generato il link
+(https://serenagallo06.github.io/figuradipastoredapresepe/)
