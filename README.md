@@ -15,6 +15,6 @@ Alla fine del corso questo diario diventa parte del README.
 | | | | |
 
 # Diario 
-## Lezione 5
+## Lezione 6
 Oggi abbiamo creato il depository, inserito i file e generato il link
 (https://serenagallo06.github.io/figuradipastoredapresepe/)
